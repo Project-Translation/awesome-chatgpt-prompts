@@ -1,0 +1,30 @@
+{
+    "projectTranslator.currentVendor": "openrouter",
+    "projectTranslator.specifiedFiles": [
+        {
+            "sourceFile": {
+                "path": "vibeprompts.csv",
+                "lang": "en-us"
+            },
+            "targetFiles": [
+                {
+                    "path": "i18n\\zh-cn\\vibeprompts.csv",
+                    "lang": "zh-cn"
+                }
+            ]
+        },
+        {
+            "sourceFile": {
+                "path": "prompts.csv",
+                "lang": "en-us"
+            },
+            "targetFiles": [
+                {
+                    "path": "i18n\\zh-cn\\prompts.csv",
+                    "lang": "zh-cn"
+                }
+            ]
+        }
+    ],
+    
+}
